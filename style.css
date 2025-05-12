@@ -1,0 +1,28 @@
+* {
+    background-color: rgb(66, 170, 211);
+    font-family: Arial, sans-serif;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  #botones {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  }
+
+  .boton {
+    width: 120px;
+    height: 120px;
+    border-radius: 20%;
+    border-color: black;
+    background-color: #e25454;
+    font-size: 35px;
+  }
+
+  .selec {
+    background-color: #95a5a6;
+  }
